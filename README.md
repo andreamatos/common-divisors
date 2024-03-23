@@ -1,6 +1,3 @@
-
-Sure! Here's a README file for the program:
-
 Common Divisors Calculator
 This Python program calculates the common divisors of two numbers provided in a JSON input file and writes the result to a JSON output file.
 
