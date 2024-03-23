@@ -1,7 +1,9 @@
-Common Divisors Calculator
+### Common Divisors Calculator
+
 This Python program calculates the common divisors of two numbers provided in a JSON input file and writes the result to a JSON output file.
 
-Usage
+### Usage
+
 Ensure you have Python 3.x installed on your system.
 
 Clone this repository to your local machine or download the common_divisors_calculator.py file.
@@ -25,9 +27,8 @@ Copy code
 {
   "common_divisors": [1, 2, 3, 6]
 }
-Notes
+
+### Notes
 If there are no common divisors between the two numbers, the output JSON file will contain an empty array [].
-
 Ensure that the input JSON file (input.json) is properly formatted and contains valid integer values for num1 and num2.
-
 If the input file is not found or the JSON format is invalid, the program will display an appropriate error message.
